@@ -541,4 +541,5 @@ elif menu == "👋 Meus Chamados":
                 if reg["data_conclusao"]:
                     st.write("**Resolvido em:**", calcular_tempo_finalizacao(reg["data_envio"], reg["data_conclusao"]))
 
-st.sidebar.caption("Condomínio Pro • 2025")
+
+st.sidebar.caption("Condomínio Pro • 2026")
